@@ -10,3 +10,8 @@ This repository contains my learning journey in Computer Science.
 - Linux commands (cp, mv, rm)
 - Simple calculator in C
 - First Python script
+## Try3
+- Arrays in C (fixed-size arrays, user input, sum or two arrays)
+- Linux commands (cat, grep, head)
+- Lists in Python (basic lists and user input)
+- Array calculator project in C
