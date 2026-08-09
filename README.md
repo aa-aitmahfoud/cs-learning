@@ -15,3 +15,9 @@ This repository contains my learning journey in Computer Science.
 - Linux commands (cat, grep, head)
 - Lists in Python (basic lists and user input)
 - Array calculator project in C
+## Try4
+- Functions in C (add, sum_array, print_array)
+- Simple header/source separation (array_utils.h/.c + main_arrays.c)
+- Git branching (week4-functions -> main)
+- Python functions with lists (lists_functions.py)
+- Linux practice (cat, grep, wc)
