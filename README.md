@@ -21,3 +21,8 @@ This repository contains my learning journey in Computer Science.
 - Git branching (week4-functions -> main)
 - Python functions with lists (lists_functions.py)
 - Linux practice (cat, grep, wc)
+## Try5
+- Basic pointers in C (pointers_basic.c)
+- Modify value via pointer in function (pointers_modify.c)
+- Swap two integers using pointers (pointers_swap.c)
+- Small exercise: double value via pointer (pointers_exercise.c)
