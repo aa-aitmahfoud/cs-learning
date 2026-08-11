@@ -26,3 +26,10 @@ This repository contains my learning journey in Computer Science.
 - Modify value via pointer in function (pointers_modify.c)
 - Swap two integers using pointers (pointers_swap.c)
 - Small exercise: double value via pointer (pointers_exercise.c)
+## Try6
+- Linear search in C arrays (linear_search.c)
+- Find min/max in C arrays using pointers (min_max.c)
+- Simple bubble sort in C (bubble_sort.c)
+- Basic search, min/max, and bubble sort on Python lists (lists_algorithms.py)
+- Linux sort and uniq practice on text files (numbers.txt, numbers_unique.txt)
+- Git diff habit before commits
