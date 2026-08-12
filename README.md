@@ -33,3 +33,7 @@ This repository contains my learning journey in Computer Science.
 - Basic search, min/max, and bubble sort on Python lists (lists_algorithms.py)
 - Linux sort and uniq practice on text files (numbers.txt, numbers_unique.txt)
 - Git diff habit before commits
+## Try7
+- Intro to time complexity: O(n) (linear search), O(n²) (bubble sort), O(log n) (binary search)
+- Binary search on sorted C arrays (binary_search.c)
+- Binary search on sorted Python lists (binary_search.py)
