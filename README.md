@@ -37,3 +37,8 @@ This repository contains my learning journey in Computer Science.
 - Intro to time complexity: O(n) (linear search), O(n²) (bubble sort), O(log n) (binary search)
 - Binary search on sorted C arrays (binary_search.c)
 - Binary search on sorted Python lists (binary_search.py)
+## Try8
+- Basic CSV reading in Python using csv.DictReader (read_csv_basic.py)
+- Simple stats (count, min, max, average) from grades.csv
+- First Pandas DataFrame usage for stats (read_csv_pandas.py)
+- Linux commands on CSV files (head, tail, cut)
